@@ -11,11 +11,17 @@ This project is designed as a **Minimum Viable Product (MVP)** to demonstrate jo
 ## ✨ Features
 
 ✅ User registration and login
+
 ✅ Admin authentication
+
 ✅ Job recommendation based on skills
+
 ✅ Location-based filtering
+
 ✅ Experience-based suggestions
+
 ✅ Lightweight SQLite database
+
 ✅ Easy-to-use Streamlit interface
 
 ---
