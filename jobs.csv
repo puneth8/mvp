@@ -1,0 +1,31 @@
+job_id,title,company,location,skills,interest,experience
+1,Python Developer Intern,TechNova,Hyderabad,"python, flask, sql",software,0
+2,Data Analyst Intern,DataMinds,Bangalore,"python, pandas, excel",data,0
+3,Web Developer Intern,WebWorks,Remote,"html, css, javascript",web,0
+4,ML Intern,AI Labs,Hyderabad,"python, machine learning, pandas",ai,0
+5,Backend Developer,CodeBase,Chennai,"python, django, sql",software,1
+6,Frontend Developer,Designify,Remote,"html, css, react",web,1
+7,Data Scientist,InsightIQ,Bangalore,"python, pandas, machine learning",data,2
+8,App Developer Intern,Appify,Hyderabad,"java, android",mobile,0
+9,Cloud Intern,CloudNet,Remote,"aws, linux, python",cloud,0
+10,AI Engineer,VisionAI,Bangalore,"python, deep learning, ml",ai,2
+11,Software Engineer,NextGen,Hyderabad,"java, sql, spring",software,1
+12,Data Engineer,DataFlow,Chennai,"python, spark, sql",data,2
+13,UI Developer,PixelCraft,Remote,"html, css, figma",web,1
+14,AI Research Intern,BrainLab,Bangalore,"python, ml, deep learning",ai,0
+15,Cloud Engineer,SkyHigh,Hyderabad,"aws, docker, linux",cloud,1
+16,DevOps Intern,InfraWorks,Remote,"docker, kubernetes, linux",cloud,0
+17,Full Stack Developer,StackLabs,Bangalore,"python, react, sql",software,1
+18,Game Developer Intern,PlayForge,Pune,"c++, unity, gaming",gaming,0
+19,Cyber Security Intern,SecureIT,Hyderabad,"networking, linux, security",security,0
+20,Automation Tester,TestPro,Chennai,"selenium, java, testing",software,1
+21,AI Product Intern,ThinkAI,Remote,"python, ai, product",ai,0
+22,Business Analyst Intern,BizInsights,Bangalore,"excel, sql, analysis",business,0
+23,Mobile App Developer,MobiTech,Hyderabad,"flutter, dart, mobile",mobile,1
+24,Cloud Architect,CloudScale,Bangalore,"aws, terraform, linux",cloud,2
+25,ML Ops Engineer,MLOpsHub,Remote,"ml, docker, kubernetes",ai,2
+26,Frontend Intern,Webify,Chennai,"html, css, javascript",web,0
+27,Backend Intern,ServerSide,Bangalore,"nodejs, mongodb, api",software,0
+28,Data Visualization Intern,Chartify,Remote,"python, matplotlib, seaborn",data,0
+29,Product Engineer,InnovateX,Pune,"python, system design",software,2
+30,AI Consultant,SmartBrains,Bangalore,"nlp, deep learning, python",ai,2
